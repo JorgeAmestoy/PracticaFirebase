@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bff6973b8c5d5c4d18018e72dcd25380
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ondavital: {instanceID: 0}
+  - pickUp: {instanceID: 0}
+  - pickUp2: {instanceID: 0}
+  - pickUp3: {instanceID: 0}
+  - pickUp4: {instanceID: 0}
+  - pickUp5: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
